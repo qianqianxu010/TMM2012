@@ -1,0 +1,16 @@
+To compute the number of connected components and loops on your paired comparison dataset:
+
+1. Load your paired comparison data, e.g.,
+ 
+    incomp =
+
+     1     2
+     2     3
+     1     4
+     2     3
+     5     6
+
+    N is the number of nodes (i.e., images to be assessed).   
+
+2. Run function [connected_components loops triangles]= comp_betti(incomp,N). Then, connected_components  returns the number of connected components in the resulting graph; loops  returns the number of loops and triangles returns the number of triangles.
+ 

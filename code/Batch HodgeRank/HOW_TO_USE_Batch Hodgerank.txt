@@ -1,0 +1,6 @@
+To run the experiment on your paired comparison dataset:
+
+1. Load your paired comparison data (e.g. incomp.mat file contains 1668 paired comparisons).  The first column in incomp.mat is the video with better quality and the second column is the video with worse quality.
+
+2. Run \Batch_Hodgerank.m to get the score and inconsistency of each video.
+ 

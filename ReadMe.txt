@@ -1,4 +1,3 @@
-# TMM2012
 % ========================================================================
 % Relaxed Collaborative Representation, Version 1.0
 % Copyright(c) 2012 Qianqian Xu, Qingming Huang, Tingting Jiang, Bowei Yan, Weisi Lin, Yuan Yao
